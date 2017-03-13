@@ -38,7 +38,6 @@ class RecipesCollectionViewController: UICollectionViewController, UICollectionV
         
         cell.recipe = recipes![indexPath.row]
     
-        // Configure the cell
     
         return cell
     }
